@@ -1,0 +1,11 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "\"Eu no mundo.\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruggery",
+  "license": "ISC"
+}
